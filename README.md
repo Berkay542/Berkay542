@@ -18,6 +18,7 @@ A passionate Devops Engineer with a keen interest in Cloud 📊. I thrive on aut
 - Terraform
 - Kubernetes
 - Jenkins
+- Docker
 - Git
 - Maven
 - ArgoCD
