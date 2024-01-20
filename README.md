@@ -5,7 +5,7 @@ A passionate Devops Engineer with a keen interest in Cloud 📊. I thrive on aut
 
 - 🌱 I’m currently working as **Devops Engineer at Nioyatech LLC**
 - ⚡ **Fun fact:** I strongly believe The Law Of Attraction: Your thoughts shape your reality; believe in the power of positivity, and you'll attract the life you envision.
-- 💡 I'm interested in Cloud: **Automation,Consulting,CI/CD Pipelines,Migration,AI**
+- 💡 I'm interested in Cloud: **Automation,Kubernetes,CI/CD Pipelines,Migration,AI**
 - 💬 Let's talk about Cars 🏎️, Gym, Movies 🎥, Street Photography 📸
 
 <h3 align="left">Connect with me:</h3>
