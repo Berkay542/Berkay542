@@ -1,9 +1,6 @@
 <h1 align="center">Hello World, I'm Berkay</h1>
-<h3 align="center">A passionate Devops Engineer from The US</h3>
 
-A passionate Devops Engineer with a keen interest in Cloud 📊. I thrive on automating processes, building scalable pipelines, and enhancing system efficiency. Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation, and Automation 🤖
-
-- 🌱 I’m currently working as **Devops Engineer at Nioyatech LLC**
+- 🌱  **Devops Engineer at Nioyatech LLC**
 - ⚡ **Fun fact:** I strongly believe The Law Of Attraction: Your thoughts shape your reality; believe in the power of positivity, and you'll attract the life you envision.
 - 💡 I'm interested in Cloud: **Automation,Kubernetes,CI/CD Pipelines,Migration,AI**
 - 💬 Let's talk about Cars 🏎️, Gym, Movies 🎥, Street Photography 📸
@@ -16,6 +13,7 @@ A passionate Devops Engineer with a keen interest in Cloud 📊. I thrive on aut
 
 ## Skills
 - AWS
+- GCP
 - Terraform
 - Kubernetes
 - Jenkins
@@ -29,4 +27,4 @@ A passionate Devops Engineer with a keen interest in Cloud 📊. I thrive on aut
 - Trivy
 - Python
 
-Feel free to connect with me! 😄
+
