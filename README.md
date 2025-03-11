@@ -3,7 +3,7 @@
 - 🌱  **Devops Engineer at Nioyatech LLC**
 - ⚡ **Fun fact:** I strongly believe The Law Of Attraction: Your thoughts shape your reality; believe in the power of positivity, and you'll attract the life you envision.
 - 💡 I'm interested in Cloud: **Automation,Kubernetes,CI/CD Pipelines,Migration,AI**
-- 💬 Let's talk about Cars 🏎️, Gym, Movies 🎥, Street Photography 📸
+- 💬 Let's talk about bmw, Gym, movies, photography 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
